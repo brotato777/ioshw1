@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "opponent-hard-taunt.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "opponent-easy-neutral.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
